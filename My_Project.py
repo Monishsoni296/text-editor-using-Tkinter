@@ -6,7 +6,7 @@ import os
 # main window ban rhe hai isse
 main_application = tk.Tk()  
 main_application.geometry('1200x800')
-main_application.title('Deepanshu Text Editor')
+main_application.title('Text Editor')
 
 # ****************************** Main Menu**********************************
 
